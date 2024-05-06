@@ -1,3 +1,2 @@
 # Covid-Data-Analysis
- This is a data exploration and walk through COVID-19 data.
- Using SQL server, it's a whole data understanding and exploration of the COVID-19 data through the countries that were affected and this way we can see the progress of humanity dealing with this situation and how we got over it successfully.
+This is a comprehensive exploration and analysis of COVID-19 data using SQL Server. It provides an in-depth understanding of the impact of COVID-19 across various countries. This analysis allows us to track humanity's progress in managing this crisis and our successful efforts to overcome it.
