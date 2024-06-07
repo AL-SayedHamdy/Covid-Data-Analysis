@@ -15,6 +15,7 @@ Instructions on setting up the SQL Server environment and other prerequisites fo
 # Add the data sheets to the 'Data' folder
 ```
 ## Usage
+```bash
 # Instructions for running the analysis
 # Execute the SQL scripts in order
 # Run the stored procedures
